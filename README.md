@@ -1,4 +1,5 @@
 A simple Movie App.
+Link to project: https://movie-zone-react.vercel.app/
 
 ## Available Scripts
 
