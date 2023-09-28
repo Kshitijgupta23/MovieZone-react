@@ -3,7 +3,7 @@ Link to project: https://movie-zone-react.vercel.app/
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run-
 
 ### `npm start`
 
